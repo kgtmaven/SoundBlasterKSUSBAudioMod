@@ -6,7 +6,7 @@ Sound Blaster KSUSB Audio Drivers for Sound Blaster USB devices.
 
 Such as Sound Blaster X7, Sound Blaster E5 and etc.
 
-This driver is designed to solve problems that older devices have with newer operating systems and to provide additional features.
+This driver is designed to provide additional features.
 
 <br/><br/>
 <img width="1460" height="707" alt="x7mb3" src="https://github.com/user-attachments/assets/f2c61573-77eb-4416-bdb3-5a4b7b0fef19" />
