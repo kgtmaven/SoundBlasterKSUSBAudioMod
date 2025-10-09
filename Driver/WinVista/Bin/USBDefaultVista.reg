@@ -1,0 +1,300 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Creative Tech\Device\VID_041E&PID_323A\Defaults]
+"THXCMSS_isEnabled" =dword:00000001
+"THXDialogueAdvantage_isEnabled" =dword:00000000
+"THXSVM_isEnabled" =dword:00000000
+"THXSVM_Mode" =dword:00000000
+"THXCrystalizer_isEnabled" =dword:00000001
+"THXEQ_isEnabled" =dword:00000000
+"THXXBass_isEnabled" =dword:00000000
+"THXBassMgt_IsEnabled" =dword:00000000
+"THXBassMgt_IsSubwooferBoostEnabled" =dword:00000000
+"THXNoiseReduction_isEnabled" =dword:00000001
+"THXAEC_isEnabled" =dword:00000001
+"THXMICSVM_isEnabled" =dword:00000000
+"THXMICARRAY_isEnabled" =dword:00000000
+"THXDolbyDigital_DynamicRange" =dword:00000002
+"THXDolbyDigital_Prologic"=dword:00000002
+"THXVoiceFx_isEnabled" =dword:00000000
+"SpeakerType" =dword:00000004
+"SpeakerConfig" =dword:0000003f
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Creative Tech\Device\VID_041E&PID_323B\Defaults]
+"THXCMSS_isEnabled" =dword:00000001
+"THXDialogueAdvantage_isEnabled" =dword:00000000
+"THXSVM_isEnabled" =dword:00000000
+"THXSVM_Mode" =dword:00000000
+"THXCrystalizer_isEnabled" =dword:00000001
+"THXEQ_isEnabled" =dword:00000000
+"THXXBass_isEnabled" =dword:00000000
+"THXBassMgt_IsEnabled" =dword:00000000
+"THXBassMgt_IsSubwooferBoostEnabled" =dword:00000000
+"THXNoiseReduction_isEnabled" =dword:00000001
+"THXAEC_isEnabled" =dword:00000001
+"THXMICSVM_isEnabled" =dword:00000000
+"THXMICARRAY_isEnabled" =dword:00000000
+"THXDolbyDigital_DynamicRange" =dword:00000002
+"THXDolbyDigital_Prologic"=dword:00000002
+"THXVoiceFx_isEnabled" =dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Creative Tech\Device\VID_041E&PID_323C\Defaults]
+"THXCMSS_isEnabled" =dword:00000001
+"THXDialogueAdvantage_isEnabled" =dword:00000000
+"THXSVM_isEnabled" =dword:00000000
+"THXSVM_Mode" =dword:00000000
+"THXCrystalizer_isEnabled" =dword:00000001
+"THXEQ_isEnabled" =dword:00000000
+"THXXBass_isEnabled" =dword:00000000
+"THXBassMgt_IsEnabled" =dword:00000000
+"THXBassMgt_IsSubwooferBoostEnabled" =dword:00000000
+"THXNoiseReduction_isEnabled" =dword:00000001
+"THXAEC_isEnabled" =dword:00000001
+"THXMICSVM_isEnabled" =dword:00000000
+"THXMICARRAY_isEnabled" =dword:00000000
+"THXDolbyDigital_DynamicRange" =dword:00000002
+"THXDolbyDigital_Prologic"=dword:00000002
+"THXVoiceFx_isEnabled" =dword:00000000
+"SpeakerType" =dword:00000006
+"SpeakerConfig" =dword:0000063F
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Creative Tech\Device\VID_041E&PID_323E\Defaults]
+"THXCMSS_isEnabled" =dword:00000001
+"THXDialogueAdvantage_isEnabled" =dword:00000000
+"THXSVM_isEnabled" =dword:00000000
+"THXSVM_Mode" =dword:00000000
+"THXCrystalizer_isEnabled" =dword:00000001
+"THXEQ_isEnabled" =dword:00000000
+"THXXBass_isEnabled" =dword:00000000
+"THXBassMgt_IsEnabled" =dword:00000000
+"THXBassMgt_IsSubwooferBoostEnabled" =dword:00000000
+"THXNoiseReduction_isEnabled" =dword:00000001
+"THXAEC_isEnabled" =dword:00000001
+"THXMICSVM_isEnabled" =dword:00000000
+"THXMICARRAY_isEnabled" =dword:00000000
+"THXDolbyDigital_DynamicRange" =dword:00000002
+"THXDolbyDigital_Prologic"=dword:00000002
+"THXVoiceFx_isEnabled" =dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Creative Tech\Device\VID_041E&PID_3243\Defaults]
+"THXCMSS_isEnabled" =dword:00000001
+"THXDialogueAdvantage_isEnabled" =dword:00000000
+"THXSVM_isEnabled" =dword:00000000
+"THXSVM_Mode" =dword:00000000
+"THXCrystalizer_isEnabled" =dword:00000001
+"THXEQ_isEnabled" =dword:00000000
+"THXXBass_isEnabled" =dword:00000000
+"THXBassMgt_IsEnabled" =dword:00000000
+"THXBassMgt_IsSubwooferBoostEnabled" =dword:00000000
+"THXNoiseReduction_isEnabled" =dword:00000001
+"THXAEC_isEnabled" =dword:00000001
+"THXMICSVM_isEnabled" =dword:00000000
+"THXMICARRAY_isEnabled" =dword:00000000
+"THXDolbyDigital_DynamicRange" =dword:00000002
+"THXDolbyDigital_Prologic"=dword:00000002
+"THXVoiceFx_isEnabled" =dword:00000000
+"SpeakerType" =dword:00000006
+"SpeakerConfig" =dword:0000063F
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Creative Tech\Device\VID_041E&PID_3242\Defaults]
+"THXCMSS_isEnabled" =dword:00000001
+"THXDialogueAdvantage_isEnabled" =dword:00000000
+"THXSVM_isEnabled" =dword:00000000
+"THXSVM_Mode" =dword:00000000
+"THXCrystalizer_isEnabled" =dword:00000001
+"THXEQ_isEnabled" =dword:00000000
+"THXXBass_isEnabled" =dword:00000000
+"THXBassMgt_IsEnabled" =dword:00000000
+"THXBassMgt_IsSubwooferBoostEnabled" =dword:00000000
+"THXNoiseReduction_isEnabled" =dword:00000001
+"THXAEC_isEnabled" =dword:00000001
+"THXMICSVM_isEnabled" =dword:00000000
+"THXMICARRAY_isEnabled" =dword:00000000
+"THXDolbyDigital_DynamicRange" =dword:00000002
+"THXDolbyDigital_Prologic"=dword:00000002
+"THXVoiceFx_isEnabled" =dword:00000000
+"SpeakerType" =dword:00000006
+"SpeakerConfig" =dword:0000063F
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Creative Tech\Device\VID_041E&PID_3255\Defaults]
+"THXCMSS_isEnabled" =dword:00000001
+"THXDialogueAdvantage_isEnabled" =dword:00000000
+"THXSVM_isEnabled" =dword:00000000
+"THXSVM_Mode" =dword:00000000
+"THXCrystalizer_isEnabled" =dword:00000001
+"THXEQ_isEnabled" =dword:00000000
+"THXXBass_isEnabled" =dword:00000000
+"THXBassMgt_IsEnabled" =dword:00000000
+"THXBassMgt_IsSubwooferBoostEnabled" =dword:00000000
+"THXNoiseReduction_isEnabled" =dword:00000001
+"THXAEC_isEnabled" =dword:00000001
+"THXMICSVM_isEnabled" =dword:00000000
+"THXMICARRAY_isEnabled" =dword:00000000
+"THXDolbyDigital_DynamicRange" =dword:00000002
+"THXDolbyDigital_Prologic"=dword:00000002
+"THXVoiceFx_isEnabled" =dword:00000000
+"SpeakerType" =dword:00000006
+"SpeakerConfig" =dword:0000063F
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Creative Tech\Device\VID_041E&PID_3248\Defaults]
+"THXCMSS_isEnabled" =dword:00000001
+"THXDialogueAdvantage_isEnabled" =dword:00000000
+"THXSVM_isEnabled" =dword:00000000
+"THXSVM_Mode" =dword:00000000
+"THXCrystalizer_isEnabled" =dword:00000001
+"THXEQ_isEnabled" =dword:00000000
+"THXXBass_isEnabled" =dword:00000000
+"THXBassMgt_IsEnabled" =dword:00000000
+"THXBassMgt_IsSubwooferBoostEnabled" =dword:00000000
+"THXNoiseReduction_isEnabled" =dword:00000001
+"THXAEC_isEnabled" =dword:00000001
+"THXMICSVM_isEnabled" =dword:00000000
+"THXMICARRAY_isEnabled" =dword:00000000
+"THXDolbyDigital_DynamicRange" =dword:00000002
+"THXDolbyDigital_Prologic"=dword:00000002
+"THXVoiceFx_isEnabled" =dword:00000000
+"SpeakerType" =dword:00000006
+"SpeakerConfig" =dword:0000063F
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Creative Tech\Device\VID_041E&PID_3245\Defaults]
+"THXCMSS_isEnabled" =dword:00000001
+"THXDialogueAdvantage_isEnabled" =dword:00000000
+"THXSVM_isEnabled" =dword:00000000
+"THXSVM_Mode" =dword:00000000
+"THXCrystalizer_isEnabled" =dword:00000001
+"THXEQ_isEnabled" =dword:00000000
+"THXXBass_isEnabled" =dword:00000000
+"THXBassMgt_IsEnabled" =dword:00000000
+"THXBassMgt_IsSubwooferBoostEnabled" =dword:00000000
+"THXNoiseReduction_isEnabled" =dword:00000001
+"THXAEC_isEnabled" =dword:00000001
+"THXMICSVM_isEnabled" =dword:00000000
+"THXMICARRAY_isEnabled" =dword:00000000
+"THXDolbyDigital_DynamicRange" =dword:00000002
+"THXDolbyDigital_Prologic"=dword:00000002
+"THXVoiceFx_isEnabled" =dword:00000000
+"SpeakerType" =dword:00000006
+"SpeakerConfig" =dword:0000063F
+"MasterVolHWGain_Level" = dword:FFF69000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Creative Tech\Device\VID_041E&PID_3249\Defaults]
+"THXCMSS_isEnabled" =dword:00000001
+"THXDialogueAdvantage_isEnabled" =dword:00000000
+"THXSVM_isEnabled" =dword:00000000
+"THXSVM_Mode" =dword:00000000
+"THXCrystalizer_isEnabled" =dword:00000001
+"THXEQ_isEnabled" =dword:00000000
+"THXXBass_isEnabled" =dword:00000000
+"THXBassMgt_IsEnabled" =dword:00000000
+"THXBassMgt_IsSubwooferBoostEnabled" =dword:00000000
+"THXNoiseReduction_isEnabled" =dword:00000001
+"THXAEC_isEnabled" =dword:00000001
+"THXMICSVM_isEnabled" =dword:00000000
+"THXMICARRAY_isEnabled" =dword:00000000
+"THXDolbyDigital_DynamicRange" =dword:00000002
+"THXDolbyDigital_Prologic"=dword:00000002
+"THXVoiceFx_isEnabled" =dword:00000000
+"SpeakerType" =dword:00000006
+"SpeakerConfig" =dword:0000063F
+"MasterVolHWGain_Level" = dword:FFF69000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Creative Tech\Device\VID_041E&PID_324D\Defaults]
+"THXCMSS_isEnabled" =dword:00000001
+"THXDialogueAdvantage_isEnabled" =dword:00000000
+"THXSVM_isEnabled" =dword:00000000
+"THXSVM_Mode" =dword:00000000
+"THXCrystalizer_isEnabled" =dword:00000001
+"THXEQ_isEnabled" =dword:00000000
+"THXXBass_isEnabled" =dword:00000000
+"THXBassMgt_IsEnabled" =dword:00000000
+"THXBassMgt_IsSubwooferBoostEnabled" =dword:00000000
+"THXNoiseReduction_isEnabled" =dword:00000001
+"THXAEC_isEnabled" =dword:00000001
+"THXMICSVM_isEnabled" =dword:00000000
+"THXMICARRAY_isEnabled" =dword:00000000
+"THXDolbyDigital_DynamicRange" =dword:00000002
+"THXDolbyDigital_Prologic"=dword:00000002
+"THXVoiceFx_isEnabled" =dword:00000000
+"SpeakerType" =dword:00000001
+"SpeakerConfig" =dword:00000003
+"MasterVolHWGain_Level" = dword:FFF69000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Creative Tech\Device\VID_041E&PID_30CA\Defaults]
+"THXCMSS_isEnabled" =dword:00000001
+"THXDialogueAdvantage_isEnabled" =dword:00000000
+"THXSVM_isEnabled" =dword:00000000
+"THXSVM_Mode" =dword:00000000
+"THXCrystalizer_isEnabled" =dword:00000001
+"THXEQ_isEnabled" =dword:00000000
+"THXXBass_isEnabled" =dword:00000000
+"THXBassMgt_IsEnabled" =dword:00000000
+"THXBassMgt_IsSubwooferBoostEnabled" =dword:00000000
+"THXNoiseReduction_isEnabled" =dword:00000001
+"THXAEC_isEnabled" =dword:00000001
+"THXMICSVM_isEnabled" =dword:00000000
+"THXMICARRAY_isEnabled" =dword:00000000
+"THXDolbyDigital_DynamicRange" =dword:00000002
+"THXDolbyDigital_Prologic"=dword:00000002
+"THXVoiceFx_isEnabled" =dword:00000000
+"SpeakerType" =dword:00000006
+"SpeakerConfig" =dword:0000063F
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Creative Tech\Device\VID_041E&PID_3247\Defaults]
+"THXCMSS_isEnabled" =dword:00000001
+"THXDialogueAdvantage_isEnabled" =dword:00000000
+"THXSVM_isEnabled" =dword:00000000
+"THXSVM_Mode" =dword:00000000
+"THXCrystalizer_isEnabled" =dword:00000001
+"THXEQ_isEnabled" =dword:00000000
+"THXXBass_isEnabled" =dword:00000000
+"THXBassMgt_IsEnabled" =dword:00000000
+"THXBassMgt_IsSubwooferBoostEnabled" =dword:00000000
+"THXNoiseReduction_isEnabled" =dword:00000001
+"THXAEC_isEnabled" =dword:00000001
+"THXMICSVM_isEnabled" =dword:00000000
+"THXMICARRAY_isEnabled" =dword:00000000
+"THXDolbyDigital_DynamicRange" =dword:00000002
+"THXDolbyDigital_Prologic"=dword:00000002
+"THXVoiceFx_isEnabled" =dword:00000000
+"SpeakerType" =dword:00000006
+"SpeakerConfig" =dword:0000063F
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Creative Tech\Device\VID_041E&PID_3251\Defaults]
+"THXCMSS_isEnabled" =dword:00000001
+"THXDialogueAdvantage_isEnabled" =dword:00000000
+"THXSVM_isEnabled" =dword:00000000
+"THXSVM_Mode" =dword:00000000
+"THXCrystalizer_isEnabled" =dword:00000001
+"THXEQ_isEnabled" =dword:00000000
+"THXXBass_isEnabled" =dword:00000000
+"THXBassMgt_IsEnabled" =dword:00000000
+"THXBassMgt_IsSubwooferBoostEnabled" =dword:00000000
+"THXNoiseReduction_isEnabled" =dword:00000001
+"THXAEC_isEnabled" =dword:00000001
+"THXMICSVM_isEnabled" =dword:00000000
+"THXMICARRAY_isEnabled" =dword:00000000
+"THXDolbyDigital_DynamicRange" =dword:00000002
+"THXDolbyDigital_Prologic"=dword:00000002
+"THXVoiceFx_isEnabled" =dword:00000000
+"SpeakerType" =dword:00000006
+"SpeakerConfig" =dword:0000063F
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Creative Tech\Device\VID_041E&PID_3256\Defaults]
+"THXCMSS_isEnabled" =dword:00000001
+"THXDialogueAdvantage_isEnabled" =dword:00000000
+"THXSVM_isEnabled" =dword:00000000
+"THXSVM_Mode" =dword:00000000
+"THXCrystalizer_isEnabled" =dword:00000001
+"THXEQ_isEnabled" =dword:00000000
+"THXXBass_isEnabled" =dword:00000000
+"THXBassMgt_IsEnabled" =dword:00000000
+"THXBassMgt_IsSubwooferBoostEnabled" =dword:00000000
+"THXNoiseReduction_isEnabled" =dword:00000001
+"THXAEC_isEnabled" =dword:00000001
+"THXMICSVM_isEnabled" =dword:00000000
+"THXMICARRAY_isEnabled" =dword:00000000
+"THXDolbyDigital_DynamicRange" =dword:00000002
+"THXDolbyDigital_Prologic"=dword:00000002
+"THXVoiceFx_isEnabled" =dword:00000000
+"SpeakerType" =dword:00000006
+"SpeakerConfig" =dword:0000063F
