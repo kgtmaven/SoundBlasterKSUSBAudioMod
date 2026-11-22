@@ -14,7 +14,7 @@ This driver is designed to provide additional features.
 
 ## Supported Devices
  - Sound Blaster X7
- - Sound Blaster E5 / Sound BlasterX G5 / Sound BlasterX G6 (Permanently Unsupported - Hardware Limitation, The Sound Blaster E5 lacks a dedicated S/PDIF endpoint. Attempts to pass AC-3 streams via IEC 61937 fail because the hardware alters the audio stream, and the underlying SB-Axx1 DSP does not support bit-perfect output-meaning compressed bitstreams are inevitably corrupted/modified in transit. Because this is a fundamental hardware limitation, support is technically impossible and will never be added.)
+ - Sound Blaster E5 / Sound BlasterX G5 / Sound BlasterX G6 (Permanently Unsupported - Hardware Limitation, These Devices lacks a dedicated S/PDIF endpoint. Attempts to pass AC-3 streams via IEC 61937 fail because the hardware alters the audio stream, and the underlying SB-Axx1 DSP does not support bit-perfect output-meaning compressed bitstreams are inevitably corrupted/modified in transit. Because this is a fundamental hardware limitation, support is technically impossible and will never be added.)
 
 <br/>
 
